@@ -1,0 +1,124 @@
+@media (max-width:800px){
+    .nav{
+        display: none;
+    }
+
+    .container{
+        max-width: 90%;
+        margin: auto;
+        
+    }
+}
+
+
+
+
+
+
+
+
+/* .p{
+    padding-bottom: 100px;
+}
+.main{
+    background-color: rgb(223, 223, 223);
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+.footer>p{
+    margin-top: 50px;
+}
+.first-1{
+    width: 100px;
+    height: 100px;
+    margin-left: 87px;
+    margin-bottom: 25px;
+}
+.first-2{
+    width: 100px;
+    height: 100px;
+    margin-left: 90px;
+    margin-bottom: 25px;
+}
+.first-3{
+    width: 100px;
+    height: 100px;
+    margin-left: 90px;
+    margin-bottom: 25px;
+}
+.first-4{
+    width: 100px;
+    height: 100px;
+    margin-left: 90px;
+    margin-bottom: 25px;
+}
+.footer>.container>ul>li>.text-1{
+    margin-left: 15px;
+    margin-bottom: 50px;
+}
+.footer>.container>ul>li>.text-2{
+    margin-left: 12px;
+    margin-bottom: 50px;
+}
+.footer>.container>ul>li>.text-3{
+    margin-left: 15px;
+    margin-bottom: 50px;
+}
+.footer>.container>ul>li>.text-4{
+    margin-left: 15px;
+    margin-bottom: 50px;
+} */
+.container-inner{
+    max-width: 90%;
+    margin: auto;
+}
+.container>ul{
+    display: flex;
+    flex: 50%;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.footer>.container>h1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.footer>.container>ul>li>p{
+    color: rgb(85, 85, 85);
+}
+.footer>.container>ul>li>i{
+    margin-left: 15px;
+    font-size: 30px;
+}
+.text>h1{
+    margin-bottom: 25px;
+    margin-top: 100px;
+}
+.text>p{
+    margin-bottom: 50px;
+}
+.btn{
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+}
+.btn>p{
+    color: white;
+    padding-top: 10px;
+}
+.btn>p>a{
+    text-decoration: none;
+    color: white;
+}
+.text{
+    width: 70%;
+}
+.text-inner{
+    margin-top: 50px;
+}
+.text-inner>ul{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 50%;
+    justify-content: space-around;
+}
